@@ -1,12 +1,9 @@
-##Team 2 - Worksheet 2
+Team 2 - Worksheet 2
 ##CPS1010 - Version Control Types
----
 
-#ASSIGNMENT README
+#Assignment Readme
 
----
 ###This is only the planned structure of how this repository will be organised. I.e. For now files/directories may be empty for use in the future
----
 
 ##Table of Contents:
 
@@ -34,23 +31,36 @@ Anyone objecting to this decision feel free to discuss it as an issue.
 
 Recipes for each member to lookup (Refer to initials, as in: [Surname][Name])
 
-AT
+*AT
+
 Prawn Cocktail
+
 Beef Fillet
+
 Chocholate Cake
 
-SM
+*SM
+
 Mushroom Soup
+
 Pizza Norma
+
 Home Made Sorbet
 
-CD
+*CD
+
 Bruschetta
+
 Fettucine Al Fredo
+
 Lemon Cheesecake
 
-FG
+*FG
+
 Tuna Dip
+
 Vegetarian Risotto
+
 Banoffee Pie
+
 -------------------------------------------------------------------------
