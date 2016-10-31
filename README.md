@@ -21,13 +21,13 @@ File/Directory | Description
 ---
 
 #To-Do List
-
-- [] Ingredients.txt
-- [] Recipe_Book
-	- [] Draft 1 for Recipe Book
-	- [] Draft 2 for Recipe Book
-- [] Pizza-Pasta Recipe Book
-- [] Vegeterian Recipe Book
+- [ ] Ingredients.txt
+- [ ] Start Recipe_Book
+- [ ] Draft 1 of Recipe Book
+- [ ] Draft 2 of Recipe Book
+- [ ] Pizza-Pasta Recipe Book
+- [ ] Vegeterian Recipe Book
+- [ ] Complete Recipe Book
 
 ---
 
