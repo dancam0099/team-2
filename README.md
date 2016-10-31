@@ -1,5 +1,5 @@
-Team 2 - Worksheet 2
-##CPS1010 - Version Control Types
+**Team 2 - Worksheet 2**
+##CPS1010 - *Version Control Types*
 
 #Assignment Readme
 
@@ -23,7 +23,7 @@ Team 2 - Worksheet 2
 Sub-Teams later will be decided depending on the number of commits they have
 performed. The 2 with the most commits will be assigned to work on the recipe
 book of their choosing, and the other 2 members will work on the remaining 
-recipe book.</p>
+recipe book.
 
 Anyone objecting to this decision feel free to discuss it as an issue.
 						
@@ -31,36 +31,36 @@ Anyone objecting to this decision feel free to discuss it as an issue.
 
 Recipes for each member to lookup (Refer to initials, as in: [Surname][Name])
 
-*AT
+* **AT**
 
-Prawn Cocktail
+	1.	Prawn Cocktail
 
-Beef Fillet
+	2.	Beef Fillet
 
-Chocholate Cake
+	3.	Chocholate Cake
 
-*SM
+* **SM**
 
-Mushroom Soup
+	1.	Mushroom Soup
 
-Pizza Norma
+	2.	Pizza Norma
 
-Home Made Sorbet
+	3.	Home Made Sorbet
 
-*CD
+* **CD**
 
-Bruschetta
+	1.	Bruschetta
 
-Fettucine Al Fredo
+	2.	Fettucine Al Fredo
 
-Lemon Cheesecake
+	3.	Lemon Cheesecake
 
-*FG
+* **FG**
 
-Tuna Dip
+	1.	Tuna Dip
 
-Vegetarian Risotto
+	2.	Vegetarian Risotto
 
-Banoffee Pie
+	3.	Banoffee Pie
 
 -------------------------------------------------------------------------
