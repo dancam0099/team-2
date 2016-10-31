@@ -12,17 +12,17 @@
 File/Directory | Description
 ------------ | -------------
 `Ingredients.txt` | Where all ingredients will be compiled and stored
-`Recipe_Book.txt`	 | Where all recipes and ingredients are compiled and stored
+`Recipe_Book.txt` | Where all recipes and ingredients are compiled and stored
 `[TAG]` Recipe_Book_Draft_1 | All ingredients and recipes have been pushed
 `[TAG]` Recipe_Book_Draft_2 | All ingredients and recipes have been pushed in an orderly fashion
-`Recipe_Book_Drafts/`	| Here each recipe will be stored as a text draft, later to be compiled within Recipe_Book.txt
-`Screenshots/` | Screenshots of any merge conflicts should be stored here
+`Recipe_Book_Drafts`/ | Here each recipe will be stored as a text draft, later to be compiled within `Recipe_Book.txt`
+`Screenshots`/ | Screenshots of any merge conflicts should be stored here
 
 ---
 
 #To-Do List
-- [ ] Ingredients.txt
-- [ ] Start Recipe_Book
+- [ ] Ingredients
+- [ ] Start Recipe Book
 - [ ] Draft 1 of Recipe Book
 - [ ] Draft 2 of Recipe Book
 - [ ] Pizza-Pasta Recipe Book
