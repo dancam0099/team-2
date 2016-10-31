@@ -32,35 +32,23 @@ Anyone objecting to this decision feel free to discuss it as an issue.
 Recipes for each member to lookup (Refer to initials, as in: [Surname][Name])
 
 * **AT**
-
 	1.	Prawn Cocktail
-
 	2.	Beef Fillet
-
 	3.	Chocholate Cake
 
 * **SM**
-
 	1.	Mushroom Soup
-
 	2.	Pizza Norma
-
 	3.	Home Made Sorbet
 
 * **CD**
-
 	1.	Bruschetta
-
 	2.	Fettucine Al Fredo
-
 	3.	Lemon Cheesecake
 
 * **FG**
-
 	1.	Tuna Dip
-
 	2.	Vegetarian Risotto
-
 	3.	Banoffee Pie
 
 -------------------------------------------------------------------------
