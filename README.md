@@ -21,10 +21,14 @@ File/Directory | Description
 ---
 
 #To-Do List
-- [ ] Ingredients
+- [x] Ingredients
+- [ ] Add [TAG] Recipe_Book_Draft_1 to Current Ingredients.txt and Recipes  
 - [ ] Start Recipe Book
-- [ ] Draft 1 of Recipe Book
-- [ ] Draft 2 of Recipe Book
+- [ ] Finish Starters for Recipe_Book
+- [ ] Finish Main Courses for Recipe_Book
+- [ ] Finish Deserts for Recipe_Book
+- [ ] Finish Edit for Recipe_Book
+- [ ] Add [TAG] Recipe_Book_Draft_2 of Recipe_Book
 - [ ] Pizza-Pasta Recipe Book
 - [ ] Vegeterian Recipe Book
 - [ ] Complete Recipe Book
