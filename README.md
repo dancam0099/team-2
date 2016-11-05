@@ -27,7 +27,7 @@ File/Directory | Description
 	- [ ] Add Starters to Recipe_Book.txt
 	- [ ] Add Main Courses to Recipe_Book.txt
 	- [ ] Add Deserts to Recipe_Book.txt
-	- [ ] Add Introduction and Conclusion to Recipe_Book.txt (for Editor)
+	- [x] Add Introduction and Conclusion to Recipe_Book.txt (for Editor)
 	- [ ] Review for Final Edit of the Recipe_Book.txt (for Editor)
 	- [ ] Add [TAG] Recipe_Book_Draft_2 to Recipe_Book.txt
 - [ ] Diverge into Two Branches
