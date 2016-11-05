@@ -22,15 +22,23 @@ File/Directory | Description
 
 #To-Do List
 - [x] Ingredients
-- [ ] Add [TAG] Recipe_Book_Draft_1 to Current Ingredients.txt and Recipes  
-- [ ] Start Recipe Book
-- [ ] Finish Starters for Recipe_Book
-- [ ] Finish Main Courses for Recipe_Book
-- [ ] Finish Deserts for Recipe_Book
-- [ ] Finish Edit for Recipe_Book
-- [ ] Add [TAG] Recipe_Book_Draft_2 of Recipe_Book
-- [ ] Pizza-Pasta Recipe Book
-- [ ] Vegeterian Recipe Book
+	- [x] Add [TAG] Recipe_Book_Draft_1 to Current Ingredients.txt
+- [x] Start Recipe Book
+	- [ ] Add Starters to Recipe_Book.txt
+	- [ ] Add Main Courses to Recipe_Book.txt
+	- [ ] Add Deserts to Recipe_Book.txt
+	- [ ] Add Introduction and Conclusion to Recipe_Book.txt (for Editor)
+	- [ ] Review for Final Edit of the Recipe_Book.txt (for Editor)
+	- [ ] Add [TAG] Recipe_Book_Draft_2 to Recipe_Book.txt
+- [ ] Diverge into Two Branches
+	- [ ] Pizza-Pasta Recipe Book
+		- [ ] Look for New Recipes
+		- [ ] Compile All Recipes into Recipe_Book.txt
+	- [ ] Vegeterian Recipe Book
+		- [ ] Look for New Recipes
+		- [ ] Compile All Recipes into Recipe_Book.txt
+- [ ] Merge Back into One Branch
+
 - [ ] Complete Recipe Book
 
 ---
