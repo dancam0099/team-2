@@ -1,150 +1,126 @@
-Recipe_Book.txt,
-Your comprehensive source for all your recipe needs,
+Deserts
 
-A Compilation by Team-2 of the
-Version Control Systems Assignment
-CPS1010
-2016
---------------------------------------------------------
+Banofee Pie
+Chocolate Cake
+Home Made Sorbet
 
+Banoffee Pie
 
-Table of Contents
-                                    Line
-Starters                            40
-
-++	Bruschetta                      44
-++	Mushroom Soup                   2
-++	Prawn Cocktail                  3
-++	Tuna Dip                        4
-
-Main Courses                        5
-	
-++	Beef Fillet                     6
-++	Fettucine Al Fredo              7
-++	Pizza Norma                     8
-++	Vegeterian Risotto              9
-	
-Desserts                            10
-	
-++	Banoffee Pie                    11
-++	Chocolate Cake                  12
-++	Home Made Sorbet                13
-++	Lemon Cheesecake                14
-
-Acknowledgements                    130
-Sources                             142
-
-
---------------------------------------------------------o
-
-Starters
-
---------------------------------------------------------o
-
-<Recipe Name>
---------------------------------------------------------++
 Ingredients
---------------------------------------------------------
+-------------------------------------------------------------------------
+For the caramel
+100g/3½oz unsalted butter
+100g/3½oz caster sugar
+400g/14fl oz can condensed milk
 
-<Ingredients>
+For the banoffee pie
+150g/5 oz digestive biscuits, crushed
+230g/8oz pecans, halved
+75g/3oz butter, melted
+3 large bananas, chopped
+250ml/10½oz double cream, whipped until soft peaks form when the whisk is removed
+cocoa powder, for dusting
 
---------------------------------------------------------
-Method
---------------------------------------------------------
+For the caramel sauce
+125g/4oz unsalted butter
+125g/4oz soft light brown sugar
+125ml/4fl oz coconut milk
 
-<Methodology>
+-------------------------------------------------------------------------
+Methodology
+-------------------------------------------------------------------------
+1.	For the caramel, place the butter and sugar into a non-stick pan over a low heat, stirring until the butter melts and the sugar dissolves.
 
---------------------------------------------------------
+2.	Add the condensed milk and slowly bring to the boil, stirring continuously, to make the caramel. As soon as the mixture thickens and begins to smell of caramel, remove from the heat and allow to cool.
 
-<Next Recipe>
+3.	Meanwhile, for the banoffee pie, place the crushed biscuits and 115g/4oz of the pecans into a bowl. Add the butter and mix well.
 
+4.	Transfer the mixture to a 25cm/10in cake tin. Press in to pack the mixture evenly into the base.
 
+5.	Add the chopped bananas to the caramel mixture and mix well, then spread the mixture over the biscuit base.
 
+6.	Transfer to the refrigerator to cool for 30 minutes.
 
+7.	Remove from the fridge and spread the whipped cream evenly over the top of the banoffee layer.
 
+8.	Place the remaining pecans over the top in a circular arrangement and dust with cocoa powder.
 
+9.	For the caramel sauce, place the butter, sugar and coconut milk into a heavy-based pan over a medium heat. Bring to the boil and cook for 3-4 minutes, until it forms a thick, light golden-brown sauce.
 
+10.	To serve, cut out slices of the banoffee pie, place onto plates and pour over the caramel sauce.
 
---------------------------------------------------------o
+-------------------------------------------------------------------------
+Source
+-------------------------------------------------------------------------
+http://www.bbc.co.uk/food/recipes/banoffeepiewithpecan_86926
+_________________________________________________________________________
 
-Main Courses
+Chocolate Cake
 
---------------------------------------------------------o
-
-<Recipe Name>
---------------------------------------------------------++
 Ingredients
---------------------------------------------------------
+-------------------------------------------------------------------------
+300 g pecan nuts
+150 g medjool dates
+150 g dried figs
+3 tablespoons raw honey
+5 tabelspoons raw cacao powder
+1½ teaspoons vanilla extract
 
-<Ingredients>
+BASE
+60 g cacao butter
+150 g hazelnuts
+3 tablespoons raw cacao powder
+1½ tablespoons raw honey
 
---------------------------------------------------------
-Method
---------------------------------------------------------
+ICING
+200 g coconut oil
+120 g cacao powder
+2 teapoon raw dark agave nectar
+2 tablespons bee pollen
 
-<Methodology>
+-------------------------------------------------------------------------
+Methodology
+-------------------------------------------------------------------------
+1.	Line a 20cm springform cake tin with greaseproof paper.
+2.	To make the base, shave the cacao butter very finely into a small bowl, then place in a large bowl of hot water and allow to melt (it melts at about 34ºC, so is still considered raw).
+3.	Blitz the hazelnuts in a food processor until very fine, combine with the other base ingredients and press into the tin. Chill while you make the filling.
+4.	Blitz the pecan nuts until very fine, then add the remaining ingredients (remember to destone the dates) and blitz until everything comes together. Press into the tin and chill for at least 3 hours.
+5.	Combine the icing ingredients and chill for about 20 minutes to set a little, stirring once or twice.
+6.	Run a round-bladed knife around the edge of the cake and remove from the tin. Spread the icing on the cake with a palette knife and dust with the bee pollen (if using).
 
---------------------------------------------------------
+-------------------------------------------------------------------------
+Source
+-------------------------------------------------------------------------
+http://www.jamieoliver.com/recipes/chocolate-recipes/raw-chocolate-cake/
+_________________________________________________________________________
 
-<Next Recipe>
+?Home Made Sorbet (Strawberry)
 
-
-
-
-
-
-
-
---------------------------------------------------------o
-
-Desserts
-
---------------------------------------------------------o
-
-<Recipe Name>
---------------------------------------------------------++
 Ingredients
---------------------------------------------------------
+-------------------------------------------------------------------------
+1 cup water
+3/4 cup sugar
+1 pint fresh strawberries
+1/2 cup orange juice
 
-<Ingredients>
+-------------------------------------------------------------------------
+Methodology
+-------------------------------------------------------------------------
+1.	Combine water & sugar in a pan, stir over low heat until sugar dissolves.
 
---------------------------------------------------------
-Method
---------------------------------------------------------
+2.	Bring to a boil & boil gently for 5 minutes without stirring. Set aside to cool.
 
-<Methodology>
+3.	Wash berries and remove caps.
 
---------------------------------------------------------
+4.	Puree fruit in a blender or food processor until almost smooth.
 
-<Next Recipe>
+5.	In a medium bowl, combine fruit with cooled syrup and orange juice.
 
---------------------------------------------------------
+6.	If you have an ice cream freezer, you can put the puree mixture into that & process using the directions with the machine. Otherwise, pour into an 8 by 8 pan & cover with plastic wrap.
 
+7.	Place in freezer & freeze until almost firm, 1 to 2 hours. Stir 2 or 3 times with a fork while freezing.
 
-
-
-
-
---------------------------------------------------------o
-
-Acknowledgements
-
---------------------------------------------------------o
-
-First & foremost, all of us would like to thank all those
-who have aided us as a team to not only learn the functionality
-that the Git version control system has to offer, but also to
-open ourselves to such knowledge of which we would never have 
-experienced. For this, you have our sincere gratitude.
-
---------------------------------------------------------o
-
-Sources
-
---------------------------------------------------------o
-
-<Title of Website>
-
-by <Author/Cook>
-<Website Link>
-Last Accessed on: <Date when Website Was Accessed>
+-------------------------------------------------------------------------
+Source
+-------------------------------------------------------------------------
+http://www.food.com/recipe/strawberry-sorbet-86264
