@@ -1,150 +1,149 @@
-Recipe_Book.txt,
-Your comprehensive source for all your recipe needs,
-
-A Compilation by Team-2 of the
-Version Control Systems Assignment
-CPS1010
-2016
---------------------------------------------------------
-
-
-Table of Contents
-									Line
-Starters							40
-
-++	Bruschetta                      44
-++	Mushroom Soup                   2
-++	Prawn Cocktail                  3
-++	Tuna Dip                        4
-
-Main Courses                        5
-	
-++	Beef Fillet                     6
-++	Fettucine Al Fredo              7
-++	Pizza Norma                     8
-++	Vegeterian Risotto              9
-	
-Desserts                            10
-	
-++	Banoffee Pie                    11
-++	Chocolate Cake                  12
-++	Home Made Sorbet                13
-++	Lemon Cheesecake                14
-
-Acknowledgements                    130
-Sources                             142
-
-
 --------------------------------------------------------o
 
 Starters
 
 --------------------------------------------------------o
 
-<Recipe Name>
---------------------------------------------------------++
+Bruschetta
+--------------------------------------------------------
 Ingredients
 --------------------------------------------------------
 
-<Ingredients>
+6 or 7 ripe plum tomatoes (about 1 1/2 lbs)
+2 cloves garlic, minced (about 2 teaspoons)
+1 Tbsp extra virgin olive oil
+1 teaspoon balsamic vinegar
+6-8 fresh basil leaves, thinly sliced* or chopped
+1 teaspoon kosher salt, more or less to taste
+1/2 teaspoon freshly ground black pepper, more or less to taste
+1 baguette French bread or similar Italian bread
+1/4 cup (60 ml) olive oil
 
 --------------------------------------------------------
 Method
 --------------------------------------------------------
 
-<Methodology>
+1) Blanch and peel the tomatoes: Bring 2 quarts of water to a boil. As the water is heating make shallow cuts in a cross pattern at the tip ends of the tomatoes 
+   (this will make the tomatoes easier to peel). Once the water is boiling, remove the pot from the heat. Put the tomatoes in the hot water and blanch for 1 minute.
+   Remove with a slotted spoon and let sit until cool enough to handle. Then gently peel off the tomato skins. Cut out the stem base with a paring knife.
+   Cut the tomatoes into halves or quarters and squeeze out most of the juices and seeds.
+
+2) Preheat oven to 450°F (230°C) with a rack in the top slot of the oven.
+
+3) Chop tomatoes, toss them with garlic, olive oil, vinegar, basil, salt and pepper: Finely chop the tomatoes and place them in a medium bowl. 
+   Mix in the minced garlic, 1 Tbsp extra virgin olive oil, and the balsamic vinegar.
+   Stir in the thinly sliced basil and add salt and freshly ground black pepper, adding more to taste. Note, tomatoes love salt; you may need to add more than you expect.
+   
+4) Toast the baguette slices: Use a bread knife to slice the baguette on the diagonal making half-inch thick slices. Brush one side of each slice with olive oil 
+   (a pastry brush helps here) and place olive oil-side down on a baking sheet or roasting pan.
+   The baguette slices will toast best in the top rack of your oven, so you may need to work in batches to toast them all.
+   When the oven has reached 450°F (230°C) place the slices in the oven on the top rack and toast for 5 to 6 minutes until lightly browned around the edges.
+   
+5) Serve toasted bread with tomato mixture: Arrange the toasted bread on a platter, olive oil side facing up 
+   (the olive oil will help create a temporary barrier keeping the bread from getting soggy from the chopped tomatoes).
+   Either serve the toasts plain with a bowl of the tomato bruschetta mixture on the side for people to top their own, 
+   or use a spoon to gently top each toasted bread slice with some of the tomato mixture. If you top each slice individually, do it right before serving.
+
 
 --------------------------------------------------------
 
-<Next Recipe>
 
 
-
-
-
-
-
-
---------------------------------------------------------o
-
-Main Courses
-
---------------------------------------------------------o
-
-<Recipe Name>
+Mushroom Soup
 --------------------------------------------------------++
 Ingredients
 --------------------------------------------------------
-
-<Ingredients>
+8 ounces fresh mushrooms
+2 tablespoons onions, chopped
+1 -2 garlic clove, minced
+2 tablespoons butter
+2 -3 tablespoons flour (separated)
+2 cups chicken broth
+1 cup light cream or 1 cup evaporated milk
+1/2 teaspoon salt
+1/4 teaspoon pepper
+1/4 teaspoon nutmeg
 
 --------------------------------------------------------
 Method
 --------------------------------------------------------
 
-<Methodology>
+1.	Cut the mushrooms into slices.
+
+2.	Melt butter in large frying pan. Add in onions, garlic, and mushrooms. Cook until onions are soft.
+
+3.	Blend in 2 T. flour and stir.
+
+4.	Add in the chicken broth and heat until slightly thickened while stirring frequently.
+
+5.	Stir cream with additional 1 T. flour and seasonings.
+
+6.	Add in cream to soup. Heat to thicken while stirring frequently.
+
 
 --------------------------------------------------------
 
-<Next Recipe>
 
 
 
+--------------------------------------------------------
 
-
-
-
-
---------------------------------------------------------o
-
-Desserts
-
---------------------------------------------------------o
-
-<Recipe Name>
+Prawn Cocktail
 --------------------------------------------------------++
 Ingredients
 --------------------------------------------------------
+olive oil
+½ a clove of garlic
+cayenne pepper
+8 unpeeled, large, raw tiger prawns
+¼ of an iceberg lettuce
+¼ of a cucumber
+1-2 ripe tomatoes
+1 sprig of fresh mint
+1 small punnet of salad cress
+50 g peeled little prawns
+100 g mixed white and brown crabmeat
+50 g brown shrimps , optional
+1 lemon
 
-<Ingredients>
+MARIE ROSE SAUCE
+½ a lemon
+1 swig of brandy
+1 pinch of cayenne pepper
+1 heaped teaspooon ketchup
+4 tablespoons mayonnaise, made from free-range eggs
 
 --------------------------------------------------------
 Method
 --------------------------------------------------------
+1.	Heat a glug of oil in a pan over a high heat. Crush and add the garlic, then stir in 1 pinch of cayenne pepper and the tiger prawns (you can butterfly them first if you like).
 
-<Methodology>
+2.	Toss the prawns for 3 to 4 minutes, or till cooked through. Remove from the heat and set aside.
+
+3.	For the Marie rose sauce, combine the lemon juice with the remaining ingredients in a bowl and set aside.
+
+4.	Shred the lettuce, dice the cucumber, thinly slice the tomato and pick the mint leaves, then layer in bowls or jars. Snip in most of the cress.
+
+5.	Add the peeled prawns, dollop with marie rose sauce and finish with crabmeat, shrimps (if using) and more cress.
+
+6.	Add a pinch of cayenne pepper and hang a hot prawn or two off the side of the bowl or jar. Serve with lemon wedges for squeezing over.
 
 --------------------------------------------------------
 
-<Next Recipe>
 
+Tuna Dip
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+1 (6 ounce) can tuna in water
+8 ounces cream cheese, room temp
+2 -3 garlic cloves, crushed
+1 dash garlic salt
+1 -2 tablespoon mayonnaise
+--------------------------------------------------------
+Method
 --------------------------------------------------------
 
+1.	Mix all the ingredients together, let the flavors blend.
 
-
-
-
-
---------------------------------------------------------o
-
-Acknowledgements
-
---------------------------------------------------------o
-
-First & foremost, all of us would like to thank all those
-who have aided us as a team to not only learn the functionality
-that the Git version control system has to offer, but also to
-open ourselves to such knowledge of which we would never have 
-experienced. For this, you have our sincere gratitude.
-
---------------------------------------------------------o
-
-Sources
-
---------------------------------------------------------o
-
-<Title of Website>
-
-by <Author/Cook>
-<Website Link>
-Last Accessed on: <Date when Website Was Accessed>
+--------------------------------------------------------
