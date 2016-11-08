@@ -49,24 +49,24 @@ File/Directory | Description
 	
 ---
 
-Recipes for each member to lookup (Refer to initials, as in: `[Surname]` `[Name]`)
+Recipes for each member to Lookup:
 
-* **AT**
+* **@AbelThar**
 	1.	Prawn Cocktail
 	2.	Beef Fillet
 	3.	Chocholate Cake
 
-* **SM**
+* **@mattsc98**
 	1.	Mushroom Soup
 	2.	Pizza Norma
 	3.	Home Made Sorbet
 
-* **CD**
+* **@danielsna**
 	1.	Bruschetta
 	2.	Fettucine Al Fredo
 	3.	Lemon Cheesecake
 
-* **FG**
+* **@Kaspy2**
 	1.	Tuna Dip
 	2.	Vegetarian Risotto
 	3.	Banoffee Pie
