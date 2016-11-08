@@ -9,8 +9,8 @@ CPS1010
 
 
 Table of Contents
-									Line
-Starters							40
+                                    Line
+Starters                            40
 
 ++	Bruschetta                      44
 ++	Mushroom Soup                   2
