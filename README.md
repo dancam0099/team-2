@@ -5,7 +5,7 @@
 
 ######This is only the planned structure of how this repository will be organised. 
 
-######i.e.: For now files/directories may be empty for use in the future
+######i.e.: For now files may be empty for use in the future
 
 ###Table of Contents:
 
@@ -17,7 +17,7 @@ File/Directory | Description
 `[TAG]` Recipe_Book_Draft_2 | All ingredients and recipes have been pushed in an orderly fashion
 `Recipe_Book_Drafts`/ | Here each recipe will be stored as a text draft, later to be compiled within `Recipe_Book.txt`
 `Screenshots`/ | Screenshots of any merge conflicts should be stored here
-
+`LaTeX Document`/ | LaTeX Source Code & Compiled PDF Document will be uploaded here
 ---
 
 #To-Do List
