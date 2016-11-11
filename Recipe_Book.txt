@@ -1,124 +1,422 @@
-Vegeterian Recipe Book
------------------------------------------------------------------------------
-Recipes: 1) Caesar Salad Supreme
-	 2) Eggplant and Zucchini Cosserole
-	 3) Spinach Enchiladas
-	 4) Tuna Dip
------------------------------------------------------------------------------
+Recipe_Book.txt,
+Your comprehensive source for all your recipe needs,
 
-Caesar Salad Supreme 
-<http://allrecipes.com/recipe/14172/caesar-salad-supreme/>
-------------------------------------------------------------------------
+A Compilation by Team-2 of the
+Version Control Systems Assignment
+CPS1010
+2016
+--------------------------------------------------------
+
+
+Table of Contents
+                                    Line
+Starters                            40
+
+++	Bruschetta                      43
+++	Mushroom Soup                   76
+++	Prawn Cocktail                  100
+++	Tuna Dip                        134
+
+Main Courses                        150
+	
+++	Beef Fillet                     154
+++	Fettucine Al Fredo              170
+++	Pizza Norma                     204
+++	Vegeterian Risotto              238
+	
+Desserts                            260
+	
+++	Banoffee Pie                    263
+++	Chocolate Cake                  298
+++	Home Made Sorbet                330
+++	Lemon Cheesecake                349
+
+Acknowledgements                    385
+Sources                             400
+
+
+--------------------------------------------------------o
+
+Starters
+
+--------------------------------------------------------o
+Bruschetta
+--------------------------------------------------------++
 Ingredients
-------------------------------------------------------------------------
-6 cloves garlic, peeled, divided
-3/4 cup mayonnaise
-5 anchovy fillets, minced
-6 tablespoons grated Parmesan cheese, divided
-1 teaspoon Worcestershire sauce
-1 teaspoon Dijon mustard
-1 tablespoon lemon juice, or more to taste
-salt to taste
-ground black pepper to taste
-1/4 cup olive oil
-4 cups day-old bread, cubed
-1 head romaine lettuce, torn into bite-size pieces
-------------------------------------------------------------------------
+--------------------------------------------------------
+6 or 7 ripe plum tomatoes (about 1 1/2 lbs)
+2 cloves garlic, minced (about 2 teaspoons)
+1 Tbsp extra virgin olive oil
+1 teaspoon balsamic vinegar
+6-8 fresh basil leaves, thinly sliced* or chopped
+1 teaspoon kosher salt, more or less to taste
+1/2 teaspoon freshly ground black pepper, more or less to taste
+1 baguette French bread or similar Italian bread
+1/4 cup (60 ml) olive oil
+--------------------------------------------------------
 Method
-------------------------------------------------------------------------
-1) Mince 3 cloves of garlic, and combine in a small bowl with mayonnaise, anchovies, 2 tablespoons of the Parmesan cheese, Worcestershire sauce, 
-   mustard, and lemon juice. Season to taste with salt and black pepper. Refrigerate until ready to use.
-
-2) Heat oil in a large skillet over medium heat. Cut the remaining 3 cloves of garlic into quarters, and add to hot oil. 
-   Cook and stir until brown, and then remove garlic from pan. Add bread cubes to the hot oil.
-   Cook, turning frequently, until lightly browned. Remove bread cubes from oil, and season with salt and pepper.
-
-3) Place lettuce in a large bowl. Toss with dressing, remaining Parmesan cheese, and seasoned bread cubes.
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-Eggplant and Zucchini Casserole
-<http://allrecipes.com/recipe/13959/eggplant-and-zucchini-casserole/?internalSource=rotd&referringId=87&referringContentType=recipe%20hub&clickId=cardslot%201>
-------------------------------------------------------------------------
+--------------------------------------------------------
+1. Blanch and peel the tomatoes: Bring 2 quarts of water to a boil. As the water is heating make shallow cuts in a cross pattern at the tip ends of the tomatoes 
+   (this will make the tomatoes easier to peel). Once the water is boiling, remove the pot from the heat. Put the tomatoes in the hot water and blanch for 1 minute.
+   Remove with a slotted spoon and let sit until cool enough to handle. Then gently peel off the tomato skins. Cut out the stem base with a paring knife.
+   Cut the tomatoes into halves or quarters and squeeze out most of the juices and seeds.
+2. Preheat oven to 450°F (230°C) with a rack in the top slot of the oven.
+3. Chop tomatoes, toss them with garlic, olive oil, vinegar, basil, salt and pepper: Finely chop the tomatoes and place them in a medium bowl. 
+   Mix in the minced garlic, 1 Tbsp extra virgin olive oil, and the balsamic vinegar.
+   Stir in the thinly sliced basil and add salt and freshly ground black pepper, adding more to taste. Note, tomatoes love salt; you may need to add more than you expect.
+4. Toast the baguette slices: Use a bread knife to slice the baguette on the diagonal making half-inch thick slices. Brush one side of each slice with olive oil 
+   (a pastry brush helps here) and place olive oil-side down on a baking sheet or roasting pan.
+   The baguette slices will toast best in the top rack of your oven, so you may need to work in batches to toast them all.
+   When the oven has reached 450°F (230°C) place the slices in the oven on the top rack and toast for 5 to 6 minutes until lightly browned around the edges.
+5. Serve toasted bread with tomato mixture: Arrange the toasted bread on a platter, olive oil side facing up 
+   (the olive oil will help create a temporary barrier keeping the bread from getting soggy from the chopped tomatoes).
+   Either serve the toasts plain with a bowl of the tomato bruschetta mixture on the side for people to top their own, 
+   or use a spoon to gently top each toasted bread slice with some of the tomato mixture. If you top each slice individually, do it right before serving.
+--------------------------------------------------------++
+Mushroom Soup
+--------------------------------------------------------++
 Ingredients
-------------------------------------------------------------------------
-2 cups water
-4 tablespoons butter
-8 ounces dry bread stuffing mix
-1 large eggplant, diced
-2 large zucchini, diced
-1 onion, chopped
-1 tomato, chopped
-1 teaspoon dried thyme
-2 cups shredded Colby cheese
-salt to taste
-ground black pepper to taste
-------------------------------------------------------------------------
+--------------------------------------------------------
+8 ounces fresh mushrooms
+2 tablespoons onions, chopped
+1 -2 garlic clove, minced
+2 tablespoons butter
+2 -3 tablespoons flour (separated)
+2 cups chicken broth
+1 cup light cream or 1 cup evaporated milk
+1/2 teaspoon salt
+1/4 teaspoon pepper
+1/4 teaspoon nutmeg
+--------------------------------------------------------
 Method
-------------------------------------------------------------------------
-1) In a microwavable bowl, mix water and margarine (cut into pieces). Stir in stuffing mix and cover with a microwavable lid. Cook on HIGH for 8 to 10 minutes. Fluff with fork.
-
-2) Place eggplant, zucchini, tomato, onion into a large skillet. Season with thyme, salt, and pepper. Cook and stir over medium low heat for 15 to 20 minutes. Remove from heat.
-
-3) Preheat oven to 350 degrees F ( 175 degrees C). Grease a 2 quart casserole dish.
-
-4) Layer vegetables, cheese, and stuffing in the dish until all ingredients have been used, ending with cheese.
-
-5) Bake for 30 to 40 minutes.
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
-Spinach Enchiladas
-<http://allrecipes.com/recipe/59661/spinach-enchiladas/?internalSource=hn_carousel%2001_Spinach%20Enchiladas&referringId=87&referringContentType=recipe%20hub&referringPosition=carousel%2001>
-------------------------------------------------------------------------
+--------------------------------------------------------
+1.	Cut the mushrooms into slices.
+2.	Melt butter in large frying pan. Add in onions, garlic, and mushrooms. Cook until onions are soft.
+3.	Blend in 2 T. flour and stir.
+4.	Add in the chicken broth and heat until slightly thickened while stirring frequently.
+5.	Stir cream with additional 1 T. flour and seasonings.
+6.	Add in cream to soup. Heat to thicken while stirring frequently.
+--------------------------------------------------------++
+Prawn Cocktail
+--------------------------------------------------------++
 Ingredients
-------------------------------------------------------------------------
+--------------------------------------------------------
+olive oil
+½ a clove of garlic
+cayenne pepper
+8 unpeeled, large, raw tiger prawns
+¼ of an iceberg lettuce
+¼ of a cucumber
+1-2 ripe tomatoes
+1 sprig of fresh mint
+1 small punnet of salad cress
+50 g peeled little prawns
+100 g mixed white and brown crabmeat
+50 g brown shrimps , optional
+1 lemon
 
-1 tablespoon butter
-1/2 cup sliced green onions
-2 cloves garlic, minced
-1 (10 ounce) package frozen chopped spinach , thawed, drained and squeezed dry
-1 cup ricotta cheese
-1/2 cup sour cream
-2 cups shredded Monterey Jack cheese
-10 (6 inch) corn tortillas
-1 (19 ounce) can enchilada sauce
-
-------------------------------------------------------------------------
+MARIE ROSE SAUCE
+½ a lemon
+1 swig of brandy
+1 pinch of cayenne pepper
+1 heaped teaspooon ketchup
+4 tablespoons mayonnaise, made from free-range eggs
+--------------------------------------------------------
 Method
-------------------------------------------------------------------------
-1) Preheat the oven to 375 degrees F (190 degrees C).
-
-2) Melt butter in a saucepan over medium heat. Add garlic and onion; cook for a few minutes until fragrant, but not brown. 
-   Stir in spinach, and cook for about 5 more minutes. Remove from the heat, and mix in ricotta cheese, sour cream, and 1 cup of Monterey Jack cheese.
-
-3) In a skillet over medium heat, warm tortillas one at a time until flexible, about 15 seconds.
-   Spoon about 1/4 cup of the spinach mixture onto the center of each tortilla. Roll up, and place seam side down in a 9x13 inch baking dish. 
-   Pour enchilada sauce over the top, and sprinkle with the remaining cup of Monterey Jack.
-
-4) Bake for 15 to 20 minutes in the preheated oven, until sauce is bubbling and cheese is lightly browned at the edges.
-------------------------------------------------------------------------
-------------------------------------------------------------------------
-
+--------------------------------------------------------
+1.	Heat a glug of oil in a pan over a high heat. Crush and add the garlic, then stir in 1 pinch of cayenne pepper and the tiger prawns (you can butterfly them first if you like).
+2.	Toss the prawns for 3 to 4 minutes, or till cooked through. Remove from the heat and set aside.
+3.	For the Marie rose sauce, combine the lemon juice with the remaining ingredients in a bowl and set aside.
+4.	Shred the lettuce, dice the cucumber, thinly slice the tomato and pick the mint leaves, then layer in bowls or jars. Snip in most of the cress.
+5.	Add the peeled prawns, dollop with marie rose sauce and finish with crabmeat, shrimps (if using) and more cress.
+6.	Add a pinch of cayenne pepper and hang a hot prawn or two off the side of the bowl or jar. Serve with lemon wedges for squeezing over.
+--------------------------------------------------------++
 Tuna Dip
-<http://www.food.com/recipe/tuna-dip-192360>
--------------------------------------------------------------------------
+--------------------------------------------------------++
 Ingredients
--------------------------------------------------------------------------
+--------------------------------------------------------
 1 (6 ounce) can tuna in water
 8 ounces cream cheese, room temp
 2 -3 garlic cloves, crushed
 1 dash garlic salt
 1 -2 tablespoon mayonnaise
-
--------------------------------------------------------------------------
-Methodology
--------------------------------------------------------------------------
+--------------------------------------------------------
+Method
+--------------------------------------------------------
 1.	Mix all the ingredients together, let the flavors blend.
-------------------------------------------------------------------------
-------------------------------------------------------------------------
+--------------------------------------------------------o
+
+
+Main Courses
+
+
+--------------------------------------------------------o
+Beef Fillet
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+900 g quality whole fillet of beef , trimmed
+sea salt
+freshly ground black pepper
+2 handfuls fresh rosemary sprigs
+1 bulb garlic , broken up, 
+cloves left whole with skins on
+extra virgin olive oil
+1.2 kg Desirée or Maris Piper potatoes , peeled and sliced 0.5cm thick
+3 heaped tablespoons creamed horseradish
+½ bottle red wine
+170 g butter
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Generously season the beef fillet with salt and pepper. In a pestle and mortar bash up about a quarter of the rosemary with a clove of garlic to make a paste. Loosen with 5 tablespoons of olive oil and then rub this all over the beef. Tie the beef up with 4 pieces of string then poke the remaining rosemary sprigs under the string. This way the beef is almost protected by the herb during the cooking and it will also give great flavour.
+2.	Preheat the oven to 250ºC/450ºF/gas 8. Parboil your sliced potatoes in boiling salted water for around 5 minutes. Drain in a colander, and transfer to a bowl with just enough olive oil to coat them. Season well. I like to make the potato cake in a round greased or non-stick cake tin, but you can use a non-stick frying pan with a metal handle if you have one. Or you can even make small individual ones. Place half the potatoes into the tin or pan, smearing the creamed horseradish over the top. Place the rest of the potatoes on top then pat down and put to one side.
+3.	Brown off the beef in a snug-fitting roasting tray until all sides are coloured. Add the garlic cloves to the tray, place the beef on top of them and put in the oven with the potatoes on a shelf below. Cook for 20 minutes, then turn the beef over, baste it and add the red wine and butter to the tray. Remove the potato dish then carefully place a clean tea towel over it and push down to compact the spuds into a nice tight cake. Put the potatoes back into the oven for another 15–20 minutes.
+4.	I serve the beef cooked medium, but you can cook it more or less to your preference. Remove the beef from the oven and while it is resting continue browning the potato cake for 5 minutes if it needs it. When you're ready to serve, remove the string and the rosemary sprigs from the beef and carve it into nice slices.
+5.	Turn the potato cake out on to a board, or just scoop it out of the pan with a spoon if it's stuck and divide between your 6 serving plates beside the meat. Save any juices from the rested meat and return them to the tray, where the red wine and butter and all the goodness from the meat will have made a very simple but tasty cooking sauce. Finish by mushing up the garlic cloves, then pass the sauce through a sieve on to the meat. Lovely served with some dressed watercress.
+6.	Try this: You could do the same recipe with a pork loin or venison.
+--------------------------------------------------------++
+Fettucine Al Fredo
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+24 ounces dry fettuccini pasta
+
+1 cup butter
+
+3/4 pint heavy cream
+
+salt and pepper to taste
+
+1 dash garlic salt
+
+3/4 cup grated Romano cheese
+
+1/2 cup grated Parmesan cheese
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1) Bring a large pot of lightly salted water to a boil. Add fettuccini and cook for 8 to 10 minutes or until al dente; drain
+2) In a large saucepan, melt butter into cream over low heat. Add salt, pepper and garlic salt. Stir in cheese over medium heat until melted; 
+   this will thicken the sauce.
+3) Add pasta to sauce. Use enough of the pasta so that all of the sauce is used and the pasta is thoroughly coated. Serve immediately.  
+--------------------------------------------------------++
+Pizza Norma
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+For the dough: 
+1 kg strong white bread flour
+25 gr brewer's yeast 
+1 tablespoon sugar
+4-5 table spoon of e.v. olive oil
+600 ml lukewarm water
+20 gr salt
+
+For the pizza: 
+tomato sauce
+few  leaves of fresh basil
+mozzarella cheese
+1 fried aubergine / eggplant
+a sprinkle of grated Parmesan cheese
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	On your kitchen surface mix the flour with the salt and make a well in the middle.
+2.	In a jug mix the yeast with "some" of the warm water and the sugar, whisk it using a fork and leave it there for few minutes. 
+3.	Pour it into the well.
+4.	Add the oil of olive and start kneading until you have a smooth, elastic and compact dough
+5.	Keep adding the remaining water, little by little, letting absorbe it and give it the shape of a ball. 
+6.	Place the ball in a large bowl dusted with flour at the bottom, cover it with a cloth and let it rise in a warm place, far from airstreams, (like the oven for example) for at least an hour or until the dough has doubled in size. 
+7.	While the pizza is rising, you can cut the aubergine/eggplant in slices and fry them in a pan filled with olive oil.
+8.	Now it's time to roll out the pizza with your rolling pin. 
+9.	Keep some more flour next to you and use it on the rolling pin so that the dough won't ruin or make holes.
+10.	Choose the tickness according to your taste, then place it on a baking tray. Heat the oven on 180°.
+11.	Spread 2-3 table spoons of tomato sauce, few leaves of fresh basil in little pieces, cover all up with mozzarella cheese and place the fried aubergine/eggplant on top. Finally sprinkle with little grated parmesan cheese.
+12.	Place in the oven for about 15 minutes, but if you have rolled out the dough quite thin, better to check after 10 minutes. 
+--------------------------------------------------------++
+Vegetarian Risotto
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+1 tbsp olive oil
+1 onion, chopped
+1 parsnip, finely diced
+2 medium carrots, finely diced
+350g risotto rice, such as arborio
+1 bay leaf
+1.2l hot vegetable or chicken stock
+140g frozen pea or petit pois
+50g Parmesan (or vegetarian alternative), grated
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Heat the oil in a large shallow pan. Tip in the onion, parsnip and carrots, cover and gently fry for 8 mins until the onion is very soft.
+2.	Stir in the rice and bay leaf, then gently fry for another 2-3 mins until the rice starts to turn see-through around the edges. 
+3.	Add 300ml of the stock and simmer over a gentle heat, stirring until it has all been absorbed. Carry on adding the hot stock, a ladleful at a time, letting it be absorbed before adding more. Continue until the rice is just cooked and all the stock has been used, adding a little more water or stock if needed. This will take 18-20 mins.
+4.	Remove the bay leaf from the cooked risotto and stir in the peas. Heat through for a few mins, then add most of the Parmesan and season to taste. Sprinkle with the remaining Parmesan and serve.
+--------------------------------------------------------o
+
+Desserts
+
+--------------------------------------------------------o
+Banoffee Pie
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+For the caramel
+100g/3½oz unsalted butter
+100g/3½oz caster sugar
+400g/14fl oz can condensed milk
+
+For the banoffee pie
+150g/5 oz digestive biscuits, crushed
+230g/8oz pecans, halved
+75g/3oz butter, melted
+3 large bananas, chopped
+250ml/10½oz double cream, whipped until soft peaks form when the whisk is removed
+cocoa powder, for dusting
+
+For the caramel sauce
+125g/4oz unsalted butter
+125g/4oz soft light brown sugar
+125ml/4fl oz coconut milk
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	For the caramel, place the butter and sugar into a non-stick pan over a low heat, stirring until the butter melts and the sugar dissolves.
+2.	Add the condensed milk and slowly bring to the boil, stirring continuously, to make the caramel. As soon as the mixture thickens and begins to smell of caramel, remove from the heat and allow to cool.
+3.	Meanwhile, for the banoffee pie, place the crushed biscuits and 115g/4oz of the pecans into a bowl. Add the butter and mix well.
+4.	Transfer the mixture to a 25cm/10in cake tin. Press in to pack the mixture evenly into the base.
+5.	Add the chopped bananas to the caramel mixture and mix well, then spread the mixture over the biscuit base.
+6.	Transfer to the refrigerator to cool for 30 minutes.
+7.	Remove from the fridge and spread the whipped cream evenly over the top of the banoffee layer.
+8.	Place the remaining pecans over the top in a circular arrangement and dust with cocoa powder.
+9.	For the caramel sauce, place the butter, sugar and coconut milk into a heavy-based pan over a medium heat. Bring to the boil and cook for 3-4 minutes, until it forms a thick, light golden-brown sauce.
+10.	To serve, cut out slices of the banoffee pie, place onto plates and pour over the caramel sauce.
+--------------------------------------------------------++
+Chocolate Cake
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+300 g pecan nuts
+150 g medjool dates
+150 g dried figs
+3 tablespoons raw honey
+5 tabelspoons raw cacao powder
+1½ teaspoons vanilla extract
+
+BASE
+60 g cacao butter
+150 g hazelnuts
+3 tablespoons raw cacao powder
+1½ tablespoons raw honey
+
+ICING
+200 g coconut oil
+120 g cacao powder
+2 teapoon raw dark agave nectar
+2 tablespons bee pollen
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Line a 20cm springform cake tin with greaseproof paper.
+2.	To make the base, shave the cacao butter very finely into a small bowl, then place in a large bowl of hot water and allow to melt (it melts at about 34ºC, so is still considered raw).
+3.	Blitz the hazelnuts in a food processor until very fine, combine with the other base ingredients and press into the tin. Chill while you make the filling.
+4.	Blitz the pecan nuts until very fine, then add the remaining ingredients (remember to destone the dates) and blitz until everything comes together. Press into the tin and chill for at least 3 hours.
+5.	Combine the icing ingredients and chill for about 20 minutes to set a little, stirring once or twice.
+6.	Run a round-bladed knife around the edge of the cake and remove from the tin. Spread the icing on the cake with a palette knife and dust with the bee pollen (if using).
+--------------------------------------------------------++
+Home Made Sorbet (Strawberry)
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+1 cup water
+3/4 cup sugar
+1 pint fresh strawberries
+1/2 cup orange juice
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Combine water & sugar in a pan, stir over low heat until sugar dissolves.
+2.	Bring to a boil & boil gently for 5 minutes without stirring. Set aside to cool.
+3.	Wash berries and remove caps.
+4.	Puree fruit in a blender or food processor until almost smooth.
+5.	In a medium bowl, combine fruit with cooled syrup and orange juice.
+6.	If you have an ice cream freezer, you can put the puree mixture into that & process using the directions with the machine. Otherwise, pour into an 8 by 8 pan & cover with plastic wrap.
+7.	Place in freezer & freeze until almost firm, 1 to 2 hours. Stir 2 or 3 times with a fork while freezing.
+--------------------------------------------------------++
+Lemon Cheesecake
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+For the biscuit base
+10 digestive biscuits
+75g/3oz butter, melted
+1 tbsp clear honey
+
+For the filling
+700g/1½ lb mascarpone cheese
+2 lemon, juice and zest
+200g/7oz caster sugar, plus more to taste
+4 tbsp icing sugar
+mint, to garnish
+
+For the sauce
+450g frozen summer fruits, defrosted
+icing sugar, to taste
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1. Brush the bottom of a 23cm/9in springform cake tin with some of the melted butter and place a round of greaseproof paper in the base.
+2. Crush the biscuits and tip them into a bowl, add the melted butter and honey and stir until well combined.
+3. Tip the mixture into the bottom of the cake tin. Using the back of a spoon, gently push the crumbs from the centre outward, until smooth and level. 
+   This will form the base of the cheesecake. Chill in the fridge while making the filling.
+4. For the filling, mix the mascarpone cheese, lemon juice and zest and caster sugar together in a bowl until well combined.
+   Do not mix the mixture too much as this will cause it to split. Taste the mixture and add more sugar, to taste.
+5. Spoon the mixture into the tin on top of the chilled biscuit mixture and chill in the fridge for at least 2 hours.
+6. When ready to serve, either run a hot cloth or blowtorch round the outside of the tin and ease out the cheesecake.
+7. For the sauce, blend most of the fruits with some icing sugar (to taste) in a food processor until smooth. Pass the sauce through a sieve.
+8. Place the cheesecake onto a plate, decorate the top with the sprigs of fresh mint and spoon the sauce around the side. Decorate with the remaining berries.
+
+
+--------------------------------------------------------o
+
+Acknowledgements
+
+--------------------------------------------------------o
+
+
+First & foremost, all of us would like to thank all those
+who have aided us as a team to not only learn the functionality
+that the Git version control system has to offer, but also to
+open ourselves to such knowledge of which we would never have 
+experienced. For this, you have our sincere gratitude.
 
 
 
+--------------------------------------------------------o
 
-	
+Sources
+
+--------------------------------------------------------o
+
+Starters
+http://www.simplyrecipes.com/recipes/bruschetta_with_tomato_and_basil/
+http://www.food.com/recipe/homemade-cream-of-mushroom-soup-264191
+http://www.jamieoliver.com/recipes/seafood-recipes/prawn-cocktail/
+http://www.food.com/recipe/tuna-dip-192360
+
+Main Courses
+http://www.jamieoliver.com/recipes/beef-recipes/marinated-and-pot-roasted-beef-fillet-with-a-brilliant-potato-and-horseradish-cake/
+http://allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/
+http://siciliancuisine.blogspot.com.mt/2014/05/homemade-pizza-alla-norma-right-night.html
+http://www.bbcgoodfood.com/recipes/1579/creamy-veggie-risotto
+
+Desserts
+http://www.bbc.co.uk/food/recipes/banoffeepiewithpecan_86926
+http://www.jamieoliver.com/recipes/chocolate-recipes/raw-chocolate-cake/
+http://www.food.com/recipe/strawberry-sorbet-86264
+http://www.bbc.co.uk/food/recipes/lemoncheesecake_65665
+
+
