@@ -30,13 +30,15 @@ File/Directory | Description
 	- [x] Add Introduction and Conclusion to Recipe_Book.txt (for Editor)
 	- [x] Review for Final Edit of the Recipe_Book.txt (for Editor)
 	- [x] Add [TAG] Recipe_Book_Draft_2 to Recipe_Book.txt
-- [ ] Diverge into Two Branches
-	- [ ] Pizza-Pasta Recipe Book
-		- [ ] Look for New Recipes
-		- [ ] Compile All Recipes into Recipe_Book.txt
-	- [ ] Vegeterian Recipe Book
-		- [ ] Look for New Recipes
-		- [ ] Compile All Recipes into Recipe_Book.txt
+- [x] Diverge into Two Branches
+	- [x] Pizza-Pasta Recipe Book
+		- [x] Look for New Recipes
+		- [x] Add Ingredients 
+		- [x] Compile All Recipes into Recipe_Book.txt
+	- [x] Vegeterian Recipe Book
+		- [x] Look for New Recipes
+		- [x] Add Ingredients
+		- [x] Compile All Recipes into Recipe_Book.txt
 - [ ] Merge Back into One Branch
 
 - [ ] Complete Recipe Book
