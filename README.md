@@ -33,14 +33,13 @@ File/Directory | Description
 - [x] Diverge into Two Branches
 	- [x] Pizza-Pasta Recipe Book
 		- [x] Look for New Recipes
-		- [x] Add Ingredients 
 		- [x] Compile All Recipes into Recipe_Book.txt
 	- [x] Vegeterian Recipe Book
 		- [x] Look for New Recipes
-		- [x] Add Ingredients
 		- [x] Compile All Recipes into Recipe_Book.txt
-- [ ] Merge Back into One Branch
-
+- [x] Merge All Ingredients Back into Master Branch
+	- [x] Pizza-Pasta Ingredients
+	- [x] Vegetarian Ingredients
 - [ ] Complete Recipe Book
 
 ---
