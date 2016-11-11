@@ -1,4 +1,4 @@
-Recipe_Book.txt,
+﻿Recipe_Book.txt,
 Your comprehensive source for all your recipe needs,
 
 A Compilation by Team-2 of the
@@ -16,6 +16,7 @@ Starters                            45
 ++	Mushroom Soup                   81
 ++	Prawn Cocktail                  105
 ++	Tuna Dip                        139
+++      Caesar Salad Supreme 
 
 Main Courses                        155
 	
@@ -27,7 +28,9 @@ Main Courses                        155
 ++	Pizza Kebab                     292
 ++	Mom's Spaghetti Sauce           305
 ++	Penne alla Vodka                338
-	
+++      Eggplant and Zucchini Casserole 
+++      Spinach Enchiladas	
+
 Desserts                            365
 	
 ++	Banoffee Pie                    368
@@ -149,6 +152,34 @@ Ingredients
 Method
 --------------------------------------------------------
 1.	Mix all the ingredients together, let the flavors blend.
+--------------------------------------------------------++
+Ceasar Salad Supreme
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+6 cloves garlic, peeled, divided
+3/4 cup mayonnaise
+5 anchovy fillets, minced
+6 tablespoons grated Parmesan cheese, divided
+1 teaspoon Worcestershire sauce
+1 teaspoon Dijon mustard
+1 tablespoon lemon juice, or more to taste
+salt to taste
+ground black pepper to taste
+1/4 cup olive oil
+4 cups day-old bread, cubed
+1 head romaine lettuce, torn into bite-size pieces
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1) Mince 3 cloves of garlic, and combine in a small bowl with mayonnaise, anchovies, 2 tablespoons of the Parmesan cheese, Worcestershire sauce, 
+   mustard, and lemon juice. Season to taste with salt and black pepper. Refrigerate until ready to use.
+
+2) Heat oil in a large skillet over medium heat. Cut the remaining 3 cloves of garlic into quarters, and add to hot oil. 
+   Cook and stir until brown, and then remove garlic from pan. Add bread cubes to the hot oil.
+   Cook, turning frequently, until lightly browned. Remove bread cubes from oil, and season with salt and pepper.
+
+3) Place lettuce in a large bowl. Toss with dressing, remaining Parmesan cheese, and seasoned bread cubes.
 --------------------------------------------------------o
 
 
@@ -358,8 +389,63 @@ Method
 5.	Cover and simmer one hour.
 6.	Remove from heat and add light cream.
 7.	Serve over cooked penne.  
+--------------------------------------------------------++
+Eggplant and Zucchini Casserole
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+2 cups water
+4 tablespoons butter
+8 ounces dry bread stuffing mix
+1 large eggplant, diced
+2 large zucchini, diced
+1 onion, chopped
+1 tomato, chopped
+1 teaspoon dried thyme
+2 cups shredded Colby cheese
+salt to taste
+ground black pepper to taste
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1) In a microwavable bowl, mix water and margarine (cut into pieces). Stir in stuffing mix and cover with a microwavable lid. Cook on HIGH for 8 to 10 minutes. Fluff with fork.
 
+2) Place eggplant, zucchini, tomato, onion into a large skillet. Season with thyme, salt, and pepper. Cook and stir over medium low heat for 15 to 20 minutes. Remove from heat.
 
+3) Preheat oven to 350 degrees F ( 175 degrees C). Grease a 2 quart casserole dish.
+
+4) Layer vegetables, cheese, and stuffing in the dish until all ingredients have been used, ending with cheese.
+
+5) Bake for 30 to 40 minutes.
+--------------------------------------------------------++
+Spinach Enchiladas
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+
+1 tablespoon butter
+1/2 cup sliced green onions
+2 cloves garlic, minced
+1 (10 ounce) package frozen chopped spinach , thawed, drained and squeezed dry
+1 cup ricotta cheese
+1/2 cup sour cream
+2 cups shredded Monterey Jack cheese
+10 (6 inch) corn tortillas
+1 (19 ounce) can enchilada sauce
+
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1) Preheat the oven to 375 degrees F (190 degrees C).
+
+2) Melt butter in a saucepan over medium heat. Add garlic and onion; cook for a few minutes until fragrant, but not brown. 
+   Stir in spinach, and cook for about 5 more minutes. Remove from the heat, and mix in ricotta cheese, sour cream, and 1 cup of Monterey Jack cheese.
+
+3) In a skillet over medium heat, warm tortillas one at a time until flexible, about 15 seconds.
+   Spoon about 1/4 cup of the spinach mixture onto the center of each tortilla. Roll up, and place seam side down in a 9x13 inch baking dish. 
+   Pour enchilada sauce over the top, and sprinkle with the remaining cup of Monterey Jack.
+
+4) Bake for 15 to 20 minutes in the preheated oven, until sauce is bubbling and cheese is lightly browned at the edges.
 --------------------------------------------------------o
 
 Desserts
@@ -511,6 +597,7 @@ http://www.simplyrecipes.com/recipes/bruschetta_with_tomato_and_basil/
 http://www.food.com/recipe/homemade-cream-of-mushroom-soup-264191
 http://www.jamieoliver.com/recipes/seafood-recipes/prawn-cocktail/
 http://www.food.com/recipe/tuna-dip-192360
+http://allrecipes.com/recipe/14172/caesar-salad-supreme/
 
 Main Courses
 http://www.jamieoliver.com/recipes/beef-recipes/marinated-and-pot-roasted-beef-fillet-with-a-brilliant-potato-and-horseradish-cake/
@@ -521,6 +608,8 @@ http://www.food.com/recipe/bbq-chicken-pizza-california-pizza-kitchen-style-1557
 http://www.food.com/recipe/kebab-pizza-528812
 http://www.food.com/recipe/moms-spaghetti-sauce-58800
 http://www.food.com/recipe/penne-alla-vodka-9048
+http://allrecipes.com/recipe/13959/eggplant-and-zucchini-casserole/?internalSource=rotd&referringId=87&referringContentType=recipe%20hub&clickId=cardslot%201
+http://allrecipes.com/recipe/59661/spinach-enchiladas/?internalSource=hn_carousel%2001_Spinach%20Enchiladas&referringId=87&referringContentType=recipe%20hub&referringPosition=carousel%2001
 
 Desserts
 http://www.bbc.co.uk/food/recipes/banoffeepiewithpecan_86926
