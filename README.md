@@ -24,12 +24,12 @@ File/Directory | Description
 - [x] Ingredients
 	- [x] Add [TAG] Recipe_Book_Draft_1 to Current Ingredients.txt
 - [x] Start Recipe Book
-	- [ ] Add Starters to Recipe_Book.txt
-	- [ ] Add Main Courses to Recipe_Book.txt
-	- [ ] Add Deserts to Recipe_Book.txt
+	- [x]  Add Starters to Recipe_Book.txt
+	- [x] Add Main Courses to Recipe_Book.txt
+	- [x] Add Deserts to Recipe_Book.txt
 	- [x] Add Introduction and Conclusion to Recipe_Book.txt (for Editor)
-	- [ ] Review for Final Edit of the Recipe_Book.txt (for Editor)
-	- [ ] Add [TAG] Recipe_Book_Draft_2 to Recipe_Book.txt
+	- [x] Review for Final Edit of the Recipe_Book.txt (for Editor)
+	- [x] Add [TAG] Recipe_Book_Draft_2 to Recipe_Book.txt
 - [ ] Diverge into Two Branches
 	- [ ] Pizza-Pasta Recipe Book
 		- [ ] Look for New Recipes
