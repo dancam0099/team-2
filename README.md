@@ -3,9 +3,7 @@
 
 #Assignment Readme
 
-######This is only the planned structure of how this repository will be organised. 
-
-######i.e.: For now files may be empty for use in the future
+######This is the planned structure of how this repository is organised. 
 
 ###Table of Contents:
 
@@ -40,14 +38,8 @@ File/Directory | Description
 - [x] Merge All Ingredients Back into Master Branch
 	- [x] Pizza-Pasta Ingredients
 	- [x] Vegetarian Ingredients
-- [ ] Complete Recipe Book
+- [x] Complete Recipe Book
 
----
-
-> Sub-Teams later will be decided depending on the number of commits they have performed. The 2 with the most commits will be assigned to work on the recipe book of their choosing, and the other 2 members will work on the remaining recipe book.
-
-> Anyone objecting to this decision feel free to discuss it as an issue.
-	
 ---
 
 Recipes for each member to Lookup:
