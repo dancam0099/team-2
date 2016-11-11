@@ -10,29 +10,34 @@ CPS1010
 
 Table of Contents
                                     Line
-Starters                            40
+Starters                            45
 
-++	Bruschetta                      43
-++	Mushroom Soup                   76
-++	Prawn Cocktail                  100
-++	Tuna Dip                        134
+++	Bruschetta                      48
+++	Mushroom Soup                   81
+++	Prawn Cocktail                  105
+++	Tuna Dip                        139
 
-Main Courses                        150
+Main Courses                        155
 	
-++	Beef Fillet                     154
-++	Fettucine Al Fredo              170
-++	Pizza Norma                     204
-++	Vegeterian Risotto              238
+++	Beef Fillet                     159
+++	Fettucine Al Fredo              184
+++	Pizza Norma                     209
+++	Vegeterian Risotto              243
+++	Pizza BBQ Chicken               264
+++	Pizza Kebab                     292
+++	Mom's Spaghetti Sauce           305
+++	Penne alla Vodka                338
 	
-Desserts                            260
+Desserts                            365
 	
-++	Banoffee Pie                    263
-++	Chocolate Cake                  298
-++	Home Made Sorbet                330
-++	Lemon Cheesecake                349
+++	Banoffee Pie                    368
+++	Chocolate Cake                  403
+++	Home Made Sorbet                435
+++	Lemon Cheesecake                454
 
-Acknowledgements                    385
-Sources                             400
+Acknowledgements                    490
+Sources                             505
+
 
 
 --------------------------------------------------------o
@@ -255,6 +260,106 @@ Method
 2.	Stir in the rice and bay leaf, then gently fry for another 2-3 mins until the rice starts to turn see-through around the edges. 
 3.	Add 300ml of the stock and simmer over a gentle heat, stirring until it has all been absorbed. Carry on adding the hot stock, a ladleful at a time, letting it be absorbed before adding more. Continue until the rice is just cooked and all the stock has been used, adding a little more water or stock if needed. This will take 18-20 mins.
 4.	Remove the bay leaf from the cooked risotto and stir in the peas. Heat through for a few mins, then add most of the Parmesan and season to taste. Sprinkle with the remaining Parmesan and serve.
+--------------------------------------------------------++
+Pizza BBQ Chicken
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+10 ounces boneless skinless chicken breasts, cut into 3/4-inch cubes
+1 tablespoon olive oil
+2 tablespoons favorite barbecue sauce (we use a spicy-sweet sauce)
+bbq chicken pizza dough
+cornmeal or semolina or flour, for handling
+1/2 cup favorite barbecue sauce
+2 tablespoons shredded smoked gouda cheese
+2 cups shredded mozzarella cheese
+1/4 small red onion, sliced into 1/8-inch pieces
+2 tablespoons chopped fresh cilantro
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+To make BBQ Chicken: 
+1.	In a large frying pan, cook the chicken in olive oil over medium-high heat until just cooked, 5 to 6 minutes. Do not overcook. Set aside in the refrigerator until chilled through.
+2.	Once chilled, coat the chicken with 2 tablespoons BBQ sauce; set aside in the refrigerator.
+
+To make the pizza: 
+1.	Place the pizza stone in the center of the oven and preheat to 500 degrees F for one hour before cooking pizzas.
+2.	Use a large spoon to spread ¼ cup BBQ sauce evenly over the surface of the prepared dough within the rim. Sprinkle 1 tablespoon smoked Gouda cheese over the sauce. Cover with ¾ cup shredded Mozzarella. 
+3.	Distribute half the chicken pieces evenly over the cheese (approximately 18 pieces). Place approximately 18 to 20 pieces of red onion over the surface. Sprinkle an additional ¼ cup Mozzarella over the top of the pizza.
+4.	Transfer the pizza to the oven; bake until the crust is crisp and golden and the cheese at the center is bubbly, 8 to 10 minutes. When the pizza is cooked, carefully remove it from the oven; sprinkle 1 tablespoon cilantro over the hot surface. Slice.--------------------------------------------------------++
+
+--------------------------------------------------------++
+Pizza Kebab
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+1 cup cheese
+1 tablespoon tomato puree
+1 tablespoon Anjou pear, kebab
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Make a pizza base and top with Cheese,tomato & kebab.
+2.	Put it in the oven for 20 minutes then take it out and decorate with extra toppings and a stuffed crust.
+--------------------------------------------------------++
+Mom's Spaghetti Sauce
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+2 stalks celery
+1 large onion
+2 -4 cloves garlic (or 2-4 tablespoons of diced garlic from the jar You can adjust to taste.)
+3 (6 ounce) cans tomato paste (I prefer Contadina)
+2 (14 1/2 ounce) cans tomatoes (Use what you prefer, but I like the diced Italian Seasoning type)
+1 (15 ounce) can tomato sauce
+1 lb ground beef or 1 lb stewing beef, cut in cubes (optional)
+2 tablespoons olive oil (can use vegetable oil if you prefer)
+4 -8 ounces sliced mushrooms (optional)
+2 -4 ounces black olives, chopped or sliced (optional)
+1 bell pepper (optional)
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Cut celery and onion (and bell pepper if used) as fine as you prefer. If you like chunky style sauce make the pieces bigger.
+2.	In a large skillet, heat 1-2 tblspn of oil, when oil is hot (not smoking) add celery and stirfry.
+3.	As celery begins to clarify, add onion (and bell pepper, if used) and stirfry until it begins to glaze, add chopped garlic, stir for a short time (don't let anything begin to brown).
+4.	If using meat, add ground beef or stew beef and brown, stirring regularly, adjust heat to make sure nothing burns.
+Salt and black pepper to taste.
+5.	Transfer to a larger pot (if you have a good sized pot that you can brown in, you can just start with that instead of using the skillet.).
+6.	Stir in tomato paste and cook until the color darkens. Stir in tomatos and tomato sauce.
+7.	Add spices (Italian seasoning or individual spices) to taste. Add 3 Bay Leaves.
+8.	Stir in mushrooms and/or black olives and crushed red pepper, if desired. Adjust heat to simmer.
+9.	Let cook for at least 1 hour, longer if you can, and stir regularly.
+10.	Check spice to taste and add what you want. You can cook this for a little while or for a longer time.
+I prefer at least 2 hours to give all the spices a chance to blend well. But it can be cooked for as little as a half hour.
+11.	If you want it to cook for a long time, monitor the thickness and add water as needed. Don't forget to remove the Bay Leaves before serving.
+12.	When done, serve over or mix with the cooked pasta of your choice. Add grated parmissan if desired.
+--------------------------------------------------------++
+Penne alla Vodka
+--------------------------------------------------------++
+Ingredients
+--------------------------------------------------------
+1 chopped shallot
+1 chopped onion
+2 tablespoons olive oil
+1 (6 ounce) can tomato paste
+4 ounces chopped prosciutto
+2 ounces vodka
+1 (28 ounce) cancrushed tomatoes
+1/2 pint light cream
+1 lb cooked penne
+--------------------------------------------------------
+Method
+--------------------------------------------------------
+1.	Heat oil in large saucepan.
+2.	Add onions and shallot and saute about 2 min.
+3.	Add tomato paste and prosciutto and vodka stirring to mix.
+4.	Add crushed tomatoes.
+5.	Cover and simmer one hour.
+6.	Remove from heat and add light cream.
+7.	Serve over cooked penne.  
+
+
 --------------------------------------------------------o
 
 Desserts
@@ -412,6 +517,10 @@ http://www.jamieoliver.com/recipes/beef-recipes/marinated-and-pot-roasted-beef-f
 http://allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/
 http://siciliancuisine.blogspot.com.mt/2014/05/homemade-pizza-alla-norma-right-night.html
 http://www.bbcgoodfood.com/recipes/1579/creamy-veggie-risotto
+http://www.food.com/recipe/bbq-chicken-pizza-california-pizza-kitchen-style-155744
+http://www.food.com/recipe/kebab-pizza-528812
+http://www.food.com/recipe/moms-spaghetti-sauce-58800
+http://www.food.com/recipe/penne-alla-vodka-9048
 
 Desserts
 http://www.bbc.co.uk/food/recipes/banoffeepiewithpecan_86926
